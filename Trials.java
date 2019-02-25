@@ -142,7 +142,7 @@ public class Trials {
 
 
     /***
-     * trials string format is : WebRTC-{$Feature}/Enabled/WebRTC-{$Feature}/Enabled
+     * trials string format is : WebRTC-{$Feature}/Enabled/WebRTC-{$Feature}/Enabled/
      */
     public static class Builder {
         private StringBuilder stringBuilder = new StringBuilder();
