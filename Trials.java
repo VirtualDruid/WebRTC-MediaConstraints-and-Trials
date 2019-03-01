@@ -1,4 +1,4 @@
-package io.virtualdruid.artc.utils;
+
 
 
 import android.support.annotation.NonNull;
