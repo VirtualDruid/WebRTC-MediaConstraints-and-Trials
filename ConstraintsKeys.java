@@ -1,4 +1,4 @@
-package io.virtualdruid.artc.mediaconstraints;
+
 
 /**
  * available keys for {@link org.webrtc.MediaConstraints.KeyValuePair}
